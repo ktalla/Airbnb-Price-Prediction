@@ -18,7 +18,7 @@ This project aims to build a machine learning model to predict Airbnb rental pri
 
 4. **Modeling**
    - Different machine learning models are applied, including Decision Trees and Random Forests.
-   - Hyperparameter tuning is performed using Grid Search and Random Search to improve the model's performance.
+   - Hyperparameter tuning is done using Grid Search and Random Search to improve the model's performance.
 
 5. **Evaluation**
    - The models are evaluated using metrics like accuracy, and cross-validation is used to check for overfitting.
@@ -27,23 +27,10 @@ This project aims to build a machine learning model to predict Airbnb rental pri
 6. **Conclusion and Future Work**
    - The project concludes with insights into model performance and suggestions for improving the model by using alternative approaches like linear regression or neural networks.
 
-## How to Run
-
-1. **Install Dependencies**
-   - Ensure you have Python 3 installed along with the necessary libraries, including `pandas`, `numpy`, `scikit-learn`, and `matplotlib`.
-
-2. **Run the Notebook**
-   - Open `Final Lab (2).ipynb` in Jupyter Notebook or any compatible environment.
-   - Run the cells sequentially to reproduce the results.
-
-3. **Modify and Experiment**
-   - Feel free to modify the code to experiment with different models or techniques.
-
 ## Future Work
 
-- **Model Optimization**: Explore different models like linear regression or neural networks to improve prediction accuracy.
-- **Feature Engineering**: Further investigation into feature interactions to enhance model performance.
-- **Deployment**: Consider deploying the model using a web framework to make predictions accessible via an API.
+- **Model Optimization**: I want to explore different models like linear regression or neural networks to improve prediction accuracy.
+- **Feature Engineering**: I need to further investigate feature correlations to enhance model performance.
 
 ## License
 
